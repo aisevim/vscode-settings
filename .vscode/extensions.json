@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+		"formulahendry.auto-rename-tag",
+		"jock.svg",
+		"pkief.material-icon-theme",
+		"usernamehw.errorlens",
+		"adpyke.codesnap",
+		"eamodio.gitlens",
+		"yzhang.markdown-all-in-one",
+		
+		// Vue
+		"vue.volar",
+		"vue.vscode-typescript-vue-plugin",
+		"hollowtree.vue-snippets",
+		
+		// Lint
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"esbenp.prettier-vscode",
+  ]
+}

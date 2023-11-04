@@ -1,0 +1,52 @@
+{
+  "vv-vue-script-setup": {
+    "scope": "vue",
+    "prefix": ["scr", "script"],
+    "body": [
+      "<script setup lang=\"ts\">",
+      "const props = defineProps<{",
+      "\tmodelValue?: boolean,",
+      "}>()",
+      "",
+      "$1",
+      "</script>",
+      "",
+      "<template>",
+      "\t<div></div>",
+      "</template>",
+      "",
+      "<style lang=\"scss\" scoped></style>",
+      "",
+    ]
+  },
+
+  "vv-vue-computed": {
+    "scope": "javascript,typescript,vue",
+    "prefix": "computed",
+    "body": [
+      "computed(() => {",
+      "\t$1",
+      "})",
+    ],
+  },
+
+  "vv-vue-watch-effect": {
+    "scope": "javascript,typescript,vue",
+    "prefix": "watchE",
+    "body": [
+      "watchEffect(() => {",
+      "\t$1",
+      "})",
+    ],
+  },
+
+  "vv-vue-watch": {
+    "scope": "javascript,typescript,vue",
+    "prefix": "watch",
+    "body": [
+      "watch($1, () => {",
+      "\t",
+      "})",
+    ]
+  },
+}
