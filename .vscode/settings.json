@@ -1,9 +1,12 @@
 {
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[vue]": {
     "files.trimTrailingWhitespace": true
@@ -12,7 +15,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
 
   "breadcrumbs.enabled": false,
@@ -85,6 +88,7 @@
   "files.autoSave": "onFocusChange",
   "files.defaultLanguage": "javascript",
   "files.eol": "\n",
+  "git.confirmSync": false,
   "git.inputValidationLength": 150,
   "git.inputValidationSubjectLength": null,
   "git.untrackedChanges": "separate",
