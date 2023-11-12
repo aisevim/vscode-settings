@@ -36,7 +36,7 @@
   "editor.codeLens": false,
   "editor.copyWithSyntaxHighlighting": false,
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorSurroundingLines": 8,
+  "editor.cursorSurroundingLines": 2,
   "editor.cursorSurroundingLinesStyle": "all",
   "editor.fastScrollSensitivity": 10,
   "editor.fontFamily": "'Fira Code', 'Playpen Sans', Consolas, 'Courier New', monospace",
