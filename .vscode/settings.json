@@ -78,8 +78,7 @@
     "javascriptreact",
     "typescriptreact",
     "vue",
-    "html",
-    "markdown"
+    "html"
   ],
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
