@@ -90,7 +90,6 @@
   "git.confirmSync": false,
   "git.inputValidationLength": 150,
   "git.inputValidationSubjectLength": null,
-  "git.untrackedChanges": "separate",
   "github.gitProtocol": "ssh",
   "gitlens.codeLens.authors.enabled": false,
   "gitlens.codeLens.enabled": false,
