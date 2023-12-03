@@ -15,10 +15,10 @@
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
 
   "breadcrumbs.enabled": false,
@@ -31,7 +31,7 @@
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
-    "source.fixAll": "never",
+    "source.fixAll": "explicit",
     "source.fixAll.eslint": true,
     "source.fixAll.stylelint": true,
     "source.organizeImports": "never"
@@ -71,14 +71,18 @@
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
+  "eslint.experimental.useFlatConfig": true,
   "eslint.quiet": true,
   "eslint.validate": [
     "javascript",
-    "typescript",
     "javascriptreact",
+    "typescript",
     "typescriptreact",
     "vue",
-    "html"
+    "html",
+    "json",
+    "jsonc",
+    "yaml"
   ],
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
