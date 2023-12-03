@@ -179,5 +179,5 @@
   "errorLens.enabledDiagnosticLevels": ["warning", "error"],
   "errorLens.messageBackgroundMode": "message",
   "errorLens.messageTemplate": "$source - $message",
-  "quipsum.suffix": "\n\n"
+  "quipsum.suffix": "\n\n",
 }
