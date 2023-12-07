@@ -31,8 +31,7 @@
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.fixAll.eslint": true,
+    "source.fixAll.eslint": "explicit",
     "source.fixAll.stylelint": true,
     "source.organizeImports": "never"
   },
