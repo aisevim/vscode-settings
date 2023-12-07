@@ -16,7 +16,6 @@
 		// Lint
 		"dbaeumer.vscode-eslint",
 		"stylelint.vscode-stylelint",
-		"esbenp.prettier-vscode",
 
 		// Mine
 		"aisevim.quipsum",
