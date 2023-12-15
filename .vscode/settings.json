@@ -33,7 +33,7 @@
   "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
-    "source.fixAll.stylelint": true,
+    "source.fixAll.stylelint": "explicit",
     "source.organizeImports": "never"
   },
   "editor.codeLens": false,
