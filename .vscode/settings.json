@@ -140,4 +140,5 @@
   "gitlens.codeLens.recentChange.enabled": false,
   "markdown.extension.preview.autoShowPreviewToSide": true,
   "quipsum.suffix": "\n\n",
+  "vetur.validation.template": false
 }
