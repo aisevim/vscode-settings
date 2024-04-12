@@ -140,5 +140,4 @@
   "gitlens.codeLens.enabled": false,
   "gitlens.codeLens.recentChange.enabled": false,
   "quipsum.suffix": "\n\n",
-  "vetur.validation.template": false
 }
